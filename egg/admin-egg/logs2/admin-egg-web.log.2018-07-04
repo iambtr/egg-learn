@@ -1,0 +1,22 @@
+2018-07-04 17:43:39,946 WARN 30560 [-/::1/-/43ms GET /view?type=0] log test43
+2018-07-04 17:43:39,982 WARN 30560 [-/::1/-/20ms GET /public/css/1.css] log test20
+2018-07-04 17:43:39,984 WARN 30560 [-/::1/-/15ms GET /public/js/1.js] log test15
+2018-07-04 18:01:59,177 WARN 11620 [-/::1/-/44ms GET /view?type=0] log test44
+2018-07-04 18:01:59,205 WARN 11620 [-/::1/-/15ms GET /public/css/1.css] log test14
+2018-07-04 18:01:59,207 WARN 11620 [-/::1/-/14ms GET /public/js/1.js] log test14
+2018-07-04 18:03:45,434 WARN 14084 [-/::1/-/39ms GET /view?type=0] zlib
+2018-07-04 18:03:45,439 WARN 14084 [-/::1/-/44ms GET /view?type=0] log test44
+2018-07-04 18:03:45,466 WARN 14084 [-/::1/-/13ms GET /public/css/1.css] log test13
+2018-07-04 18:03:45,470 WARN 14084 [-/::1/-/15ms GET /public/js/1.js] log test15
+2018-07-04 18:04:56,069 WARN 1364 [-/::1/-/45ms GET /view?type=0] zlib
+2018-07-04 18:04:56,079 WARN 1364 [-/::1/-/55ms GET /view?type=0] log test55
+2018-07-04 18:04:56,108 WARN 1364 [-/::1/-/14ms GET /public/css/1.css] log test14
+2018-07-04 18:04:56,110 WARN 1364 [-/::1/-/14ms GET /public/js/1.js] log test14
+2018-07-04 18:05:20,614 WARN 18764 [-/::1/-/45ms GET /view?type=0] zlib
+2018-07-04 18:05:20,627 WARN 18764 [-/::1/-/58ms GET /view?type=0] log test58
+2018-07-04 18:05:20,663 WARN 18764 [-/::1/-/19ms GET /public/css/1.css] log test19
+2018-07-04 18:05:20,665 WARN 18764 [-/::1/-/19ms GET /public/js/1.js] log test19
+2018-07-04 18:06:39,630 WARN 18764 [-/::1/-/16ms GET /view?type=0] zlib
+2018-07-04 18:06:39,634 WARN 18764 [-/::1/-/20ms GET /view?type=0] log test20
+2018-07-04 18:06:39,657 WARN 18764 [-/::1/-/6ms GET /public/css/1.css] log test6
+2018-07-04 18:06:39,658 WARN 18764 [-/::1/-/4ms GET /public/js/1.js] log test4

@@ -1,0 +1,14 @@
+{%include "../public/header.html"%}
+<body>
+    <h1>user view</h1>
+    <h2>{{ renderType}}</h2>
+    <h3>{{ renderType|capitalize }}</h3>
+    <ul>
+        {% for item in items %}
+            <li class='a'>{{item.title}}</li>
+        {% else %}
+            <li>'item is empty'</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
